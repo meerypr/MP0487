@@ -18,8 +18,9 @@ $notas = [
 ];
 arsort($notas);
 echo "Notas de los estudiantes:";
-foreach ($notas as $nombre => $notas){
-    echo "$nombre: $notas ";
+foreach ($notas as $nombre => $nota ){
+
+    echo "$nombre: $nota ";
 }
 ?>
 </body>
