@@ -8,7 +8,6 @@
 <body>
    <h2>Ejercicio 3</h2> 
 <?php
-
 $datos = [
     "Dato 1º" => "Sara",
     "Dato 2º" => "Martínez",

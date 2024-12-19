@@ -7,7 +7,6 @@
 </head>
 <body>
    <h2>Ejercicio 5</h2> 
-
 <?php
 $letters = "a,b,c,d,e,f";
 

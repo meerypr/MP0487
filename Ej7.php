@@ -8,7 +8,6 @@
 <body>
    <h2>Ejercicio 7</h2> 
 <?php
-
 $notas = [
     "Miguel" => 5,
     "Luis" => 7,

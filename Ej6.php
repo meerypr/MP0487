@@ -22,6 +22,7 @@ foreach ($notas as $nombre => $nota ){
 
     echo "$nombre: $nota ";
 }
+
 ?>
 </body>
 </html>
