@@ -11,8 +11,6 @@ $inventario = [
     ],
 ];
 
-// Función principal
-// Antes del descuento
 echo "<h2>Inventario inicial</h2>";
 mostrarComicsEnTabla();
 mostrarValorAlmacen();

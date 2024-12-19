@@ -7,7 +7,6 @@
 </head>
 <body>
    <h2>Ejercicio 3</h2> 
-
 <?php
 
 $datos = [

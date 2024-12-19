@@ -17,7 +17,6 @@ $notas = [
     "Pepe" => 1
 ];
 arsort($notas);
-
 echo "Notas de los estudiantes:";
 foreach ($notas as $nombre => $notas){
     echo "$nombre: $notas ";

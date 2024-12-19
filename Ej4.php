@@ -9,7 +9,6 @@
    <h2>Ejercicio 4</h2> 
 
 <?php
-
 $datos = [
     "nombre" => "Sara",
     "apellido" => "Martínez",

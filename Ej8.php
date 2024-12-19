@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    
    <h2>Ejercicio 8</h2> 
 <?php
 $notas = [
